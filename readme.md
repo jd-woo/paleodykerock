@@ -1,5 +1,5 @@
 # paleodykerock
 
-##edited
+## edited
 
 A markdown in this repository.
